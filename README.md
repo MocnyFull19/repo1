@@ -14,6 +14,5 @@ vos vos
 
 ez 
 cos 
-pizda
 vsd
 >>>>>>> de7691b173f7d8c358fd1897dc2b67cc077d0138
